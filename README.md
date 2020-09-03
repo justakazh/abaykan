@@ -5,7 +5,7 @@
 People who know me call me Abay. I made some things just for fun. Usually I can't live without Gudang Garam and Coffee. Often turning interesting ideas into beautiful things but sometimes also become horrible things.
 
 - 🔭 I’m currently working on Mobile and Web Application Vendor
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and also everything about Web Application Security
 - 📫 You can reach me via abay@codelatte.org
 
 <p>
@@ -17,9 +17,8 @@ People who know me call me Abay. I made some things just for fun. Usually I can'
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
