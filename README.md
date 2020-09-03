@@ -1,11 +1,5 @@
 ### Hi there, I'm Abay 🔥
 
-<p>
-  <img src="https://badges.pufler.dev/repos/abaykan">
-  <img src="https://badges.pufler.dev/gists/abaykan">
-  <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
-
 Somewhere between builder and breaker. And sometimes build thing to break another things.<br/>
 Portfolio: https://abaykan.com 
 
