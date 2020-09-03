@@ -1,7 +1,10 @@
-### Hi there, I'm Abay 🔥
+<center>
+  <img src="https://abaykan.com/dino.png" width="100%" height="400px">
+  <h2>Hi there, I'm Abay 🔥</h2>
 
-Somewhere between builder and breaker. And sometimes build thing to break another things.<br/>
-Portfolio: https://abaykan.com 
+  Somewhere between builder and breaker. And sometimes build thing to break another things.<br/>
+  Portfolio: https://abaykan.com 
+</center
 
 - 🔭 I’m currently working on Mobile and Web Application Vendor
 - 🌱 I’m currently learning Flutter
