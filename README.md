@@ -7,7 +7,7 @@ People who know me call me Abay. I made some things just for fun. Usually I can'
 - 📫 You can reach me via abay@codelatte.org
 
 <p>
-  <strong><a href="https://abaykan.com">Official Website</a></strong> |
+  <strong><a href="https://abaykan.com">Personal Website</a></strong> |
   <strong><a href="https://twitter.com/abaykandotcom">Twitter</a></strong> |
   <strong><a href="https://www.instagram.com/abaykandotcom">Instagram</a></strong> |
   <strong><a href="https://www.linkedin.com/in/mukhammad-akbar/">LinkedIn</a></strong>
