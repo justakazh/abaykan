@@ -2,8 +2,7 @@
 
 People who know me call me Abay. I made some things just for fun. Usually I can't live without Gudang Garam and Coffee. Often turning interesting ideas into beautiful things but sometimes also become horrible things.
 
-- 🔭 I’m currently working on Mobile and Web Application Vendor
-- 🌱 I’m currently learning Flutter and also everything about Web Application Security
+- 🌱 I’m currently learning Laravel and also everything about Web Application Security
 - 📫 You can reach me via abay@codelatte.org
 
 <p>
