@@ -25,3 +25,5 @@ People who know me call me Abay. I made some things just for fun. Usually I can'
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaykan&hide_border=true&hide=html,css&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=abaykan&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=dark">
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abaykan&theme=alduin&margin-w=28)](https://github.com/ryo-ma/github-profile-trophy)
